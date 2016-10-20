@@ -1,0 +1,17 @@
+..\OBJ\do.o: ..\HARDWARE\DO\do.c
+..\OBJ\do.o: ..\HARDWARE\DO\do.h
+..\OBJ\do.o: ..\SYSTEM\sys\sys.h
+..\OBJ\do.o: ..\USER\stm32f10x.h
+..\OBJ\do.o: ..\CORE\core_cm3.h
+..\OBJ\do.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\OBJ\do.o: ..\USER\system_stm32f10x.h
+..\OBJ\do.o: ..\USER\stm32f10x_conf.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\OBJ\do.o: ..\USER\stm32f10x.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\OBJ\do.o: ..\STM32F10x_FWLib\inc\misc.h

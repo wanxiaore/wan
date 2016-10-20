@@ -1,0 +1,45 @@
+*** Creating Trace Output File '..\OBJ\YCJKPLCLJS.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\stm32f10x_it.o"'
+### List of Objects: adding '"..\obj\system_stm32f10x.o"'
+### List of Objects: adding '"..\obj\led.o"'
+### List of Objects: adding '"..\obj\key.o"'
+### List of Objects: adding '"..\obj\dac8552.o"'
+### List of Objects: adding '"..\obj\dgus.o"'
+### List of Objects: adding '"..\obj\adc.o"'
+### List of Objects: adding '"..\obj\oct.o"'
+### List of Objects: adding '"..\obj\24cxx.o"'
+### List of Objects: adding '"..\obj\myiic.o"'
+### List of Objects: adding '"..\obj\do.o"'
+### List of Objects: adding '"..\obj\di.o"'
+### List of Objects: adding '"..\obj\delay.o"'
+### List of Objects: adding '"..\obj\sys.o"'
+### List of Objects: adding '"..\obj\usart.o"'
+### List of Objects: adding '"..\obj\core_cm3.o"'
+### List of Objects: adding '"..\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '"..\obj\misc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\obj\stm32f10x_can.o"'
+### List of Objects: adding '"..\obj\stm32f10x_usart.o"'
+### List of Objects: adding '"..\obj\stm32f10x_tim.o"'
+### List of Objects: adding '"..\obj\stm32f10x_adc.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\obj\main.o" "..\obj\stm32f10x_it.o" "..\obj\system_stm32f10x.o" "..\obj\led.o" "..\obj\key.o" "..\obj\dac8552.o" "..\obj\dgus.o" "..\obj\adc.o" "..\obj\oct.o" "..\obj\24cxx.o" "..\obj\myiic.o" "..\obj\do.o" "..\obj\di.o" "..\obj\delay.o" "..\obj\sys.o" "..\obj\usart.o" "..\obj\core_cm3.o" "..\obj\startup_stm32f10x_hd.o" "..\obj\misc.o" "..\obj\stm32f10x_fsmc.o" "..\obj\stm32f10x_gpio.o" "..\obj\stm32f10x_rcc.o" "..\obj\stm32f10x_can.o" "..\obj\stm32f10x_usart.o" "..\obj\stm32f10x_tim.o" "..\obj\stm32f10x_adc.o" 
+--strict --scatter "..\OBJ\YCJKPLCLJS.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\YCJKPLCLJS.map" -o ..\OBJ\YCJKPLCLJS.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\OBJ\YCJKPLCLJS.axf'
+### ADS-LD Command File: '..\OBJ\YCJKPLCLJS.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\OBJ\YCJKPLCLJS.lnp', Handle=0x000002F4
+### Writing '.lnp' file
+### ADS-LD Command file '..\OBJ\YCJKPLCLJS.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

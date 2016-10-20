@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\HARDWARE\LED -I..\SYSTEM\delay -I..\SYSTEM\sys -I..\SYSTEM\usart -I..\USER -I..\STM32F10x_FWLib\inc -I..\CORE -I..\HARDWARE\KEY -I..\HARDWARE\DAC8552 -I..\HARDWARE\DGUS -I..\HARDWARE\ADC -I..\HARDWARE\OperationalCycleTime -I..\HARDWARE\24CXX -I..\HARDWARE\IIC -I..\HARDWARE\DO -I..\HARDWARE\LCD -I..\HARDWARE\DI 
+-I D:\Keil\ARM\RV31\INC 
+-I D:\Keil\ARM\CMSIS\Include 
+-I D:\Keil\ARM\Inc\ST\STM32F10x 
+-DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER -o "..\OBJ\define.o" --omf_browse "..\OBJ\define.crf" --depend "..\OBJ\define.d" "define.c"
